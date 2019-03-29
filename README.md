@@ -5,3 +5,4 @@
 - lesson 01_03: [Manual grid item placement](https://github.com/kelvingao/css_grid_advanced/tree/01_03/01_03)
 - lesson 01_04: [Named lines](https://github.com/kelvingao/css_grid_advanced/tree/01_04/01_04)
 - lesson 01_05: [Grid areas](https://github.com/kelvingao/css_grid_advanced/tree/01_05/01_05)
+- lesson 02_01: [Created the main grid](https://github.com/kelvingao/css_grid_advanced/tree/02_01/02_01)
